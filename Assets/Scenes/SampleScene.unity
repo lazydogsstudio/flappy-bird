@@ -1244,21 +1244,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 541463270352970066, guid: 4e444813c02cab84cba3c833df8db240, type: 3}
-      propertyPath: gameManager
-      value: 
-      objectReference: {fileID: 598710534}
-    - target: {fileID: 541463270352970067, guid: 4e444813c02cab84cba3c833df8db240, type: 3}
-      propertyPath: m_CollisionDetection
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 541463270352970071, guid: 4e444813c02cab84cba3c833df8db240, type: 3}
       propertyPath: m_Name
       value: Bird
-      objectReference: {fileID: 0}
-    - target: {fileID: 541463270352970071, guid: 4e444813c02cab84cba3c833df8db240, type: 3}
-      propertyPath: m_TagString
-      value: Player
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4e444813c02cab84cba3c833df8db240, type: 3}
